@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="adb_install" systemlibrary="false">
+        <archive path="C:/Pavan/Installations/BW5150/adapter/adadb/7.3/lib/adbaltermsg.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/adapter/adadb/7.3/lib/adbDTA.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/adapter/adadb/7.3/lib/adbruntime.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/adapter/adadb/7.3/lib/jt400.jar"/>
+    </library>
+    <library name="adb_rv" systemlibrary="false">
+        <archive path="C:/Pavan/Installations/BW5150/tibrv/8.5/lib/rvconfig.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tibrv/8.5/lib/tibrvj.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tibrv/8.5/lib/tibrvjsd.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tibrv/8.5/lib/tibrvnative.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tibrv/8.5/lib/tibrvnativesd.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/servlet-api.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tibrv/8.5/lib/rvlat.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tibrv/8.5/lib/bcprov-jdk15on-162.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/ems/8.6/lib/tibjms.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/ems/8.6/lib/tibrvjms.jar"/>
+    </library>
+    <library name="adb_sdk" systemlibrary="false">
+        <archive path="C:/Pavan/Installations/BW5150/adapter/sdk/6.0/lib/Maverick6.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/adapter/sdk/6.0/lib/xercesImpl.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/adapter/sdk/6.0/lib/xml-apis.jar"/>
+    </library>
+    <library name="adb_tools" systemlibrary="false">
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/antpackage.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/com.tibco.devtools.install.support_1.3.200.001.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/com.tibco.neo.common.util_2.6.0.002.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/com.tibco.neo.eclipse.support_1.0.400.001.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/com.tibco.neo.launch_1.2.3.001.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/com.tibco.neo.machine.model_1.6.0.001.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/com.tibco.neo.machine.osgi_1.3.0.002.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/com.tibco.neo.machine_1.6.0.001.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/com.tibco.neo.model.core_1.1.0.001.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/com.tibco.neo.model.osgi_1.0.1.002.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/com.tibco.neo.osgi.launch_1.1.1.001.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/org.eclipse.emf.common_2.4.0.v200806091234.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/org.eclipse.emf.ecore.xmi_2.4.1.v200902171115.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/org.eclipse.emf.ecore_2.4.2.v200902171115.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/org.eclipse.osgi_3.7.1.R37x_v20110808-1106.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/slf4j-api-1.7.31.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/slf4j-log4j12-1.7.31.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/TIBCOInstallerInfoReader.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/TIBCOInstallXMLParser.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/postinstall/lib/TIBCOpostinstallutility.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/log4j-1.2-api-2.14.1.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/log4j-api-2.14.1.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tools/lib/log4j-core-2.14.1.jar"/>
+    </library>
+    <library name="adb_tpcl" systemlibrary="false">
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/activation.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/antlr-3.1.3.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/auth.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/commons-codec-1.10.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/commons-collections.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/commons-dbcp.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/commons-digester.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/commons-httpclient.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/commons-logging-1.2.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/commons-logging-api.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/commons-pool-1.6.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/cos.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/ehcache-core-1.7.2.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/fixSoftRefSymbolTable.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/harmonyasn1.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/jaas.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/jakarta-regexp-1.2.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/jakarta-slide-webdavlib-2.0.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/jdbc2_0-stdext.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/jdom.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/jms-2.0.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/jmxremote_optional.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/jndi.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/jta.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/ldapjdk.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/mail.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/naming-common.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/neo.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/PerlTools.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/serializer.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/servlet.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/servlets-common.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/servlets-manager.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/spring-aop.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/spring-beans.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/spring-context.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/spring-core.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/spring-web.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/tomcat-http11.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/tomcat-jk.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/tomcat-jk2.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/tomcat-warp.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/turbine-2.1.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/wsdl4j.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/wstx-asl-3.2.9.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/xalan.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/xercesImpl.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/xfire-aegis-1.2.2.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/xfire-core-1.2.2.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/xfire-spring-1.2.2.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/xml-apis.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/xmlsec.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/httpclient_3.0/commons-httpclient.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/mx4j/mx4j.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/mx4j/mx4j-examples.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/mx4j/mx4j-impl.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/mx4j/mx4j-jmx.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/mx4j/mx4j-remote.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/mx4j/mx4j-rimpl.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/mx4j/mx4j-rjmx.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/mx4j/mx4j-tools.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/annotations-api.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/catalina.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/catalina-ant.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/catalina-ha.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/catalina-tribes.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/el-api.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/jasper.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/jasper-el.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/jsp-api.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/servlet-api.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/tomcat-api.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/tomcat-coyote.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/tomcat-dbcp.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/tomcat-i18n-es.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/tomcat-i18n-fr.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/tomcat-i18n-ja.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/tomcat-jdbc.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/tomcat-util.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/websocket-api.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/uddi4j/lib/uddi4j.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/jdbc/TIdb2.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/commons-beanutils-1.9.4.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/commons-fileupload-1.4.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/jcl-over-slf4j-1.7.31.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/ecj-4.20.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/slf4j-api-1.7.31.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/slf4j-log4j12-1.7.31.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/slf4j-simple-1.7.31.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/lib/tomcat-websocket.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/bin/bootstrap.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/bin/commons-daemon.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/tomcat/9/bin/tomcat-juli.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/log4j-api-2.14.1.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/log4j-appserver-2.14.1.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/log4j-core-2.14.1.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/log4j-slf4j-impl-2.14.1.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/jdbc/pool.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/jdbc/TIgreenplum.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/jdbc/TIhive.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/jdbc/TIinformix.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/jdbc/TImysql.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/jdbc/TIoracle.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/jdbc/TIredshift.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/jdbc/TIsforce.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/jdbc/TIsqlserver.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/jdbc/TIsybase.jar"/>
+    </library>
+    <library name="adb_tra" systemlibrary="false">
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/AppManage.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/auth.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/AuthAPIimpl-javadoc.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/AuthAPI-javadoc.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/Deployment.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/designerhelp.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/DomainUtility.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/DUServletEngine.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/muitools.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/neo-common-util.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/TIBCOAppDeployment.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/TIBCOAuthAPI.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/TIBCOAuthAPIimpl.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/TIBCOdesigner.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/TIBCOrt.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/TIBCOSecurityTomcat.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/TIBCOtsm.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/TIBCOUserAPI.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/TIBCOxml.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/TIBCrypt.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/tibcryptx_pswd.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/TIBqd.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/tramodify.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/turbosdk.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/xmlparsers.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/XSLTPluginFactory.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/install/TIBCOInstallerUtility.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/palettes/ad_palette.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/palettes/clearcasercs.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/palettes/cvsrcs.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/palettes/davstore.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/palettes/designerpalettes.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/palettes/perforcercs.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/palettes/pvcsrcs.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/palettes/TurboPalette.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/palettes/vssrcs.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/repository_mappers/designerobjectrepomapper.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/repository_mappers/TIBCOadaptermappers.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tra/5.12/lib/log4j2Props.jar"/>
+    </library>
+    <library name="administrator.lib" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/administrator/5.10/lib/admin.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/administrator/5.10/lib/administrator.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/administrator/5.10/lib/BWadmin.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/administrator/5.10/lib/BWadmin1.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/administrator/5.10/lib/bwman.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/administrator/5.10/lib/JMSAdm.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/administrator/5.10/lib/monit.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/administrator/5.10/lib/monitor.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/administrator/5.10/lib/PortalS.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/administrator/5.10/lib/RequestTracker.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/administrator/5.10/lib/TibcoRepoSecureA.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/administrator/5.10/lib/TibcoRepoSecureAAA.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/administrator/5.10/lib/tibISMPTIBCOAdmin.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/administrator/5.10/lib/TIBRepoServer1.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/administrator/5.10/lib/TIBRepoServer5.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/administrator/5.10/lib/UserAgeRolePlugIn.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/administrator/5.10/lib/UserListAuthentication.jar"/>
+    </library>
+    <library name="arjuna.lib" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/arjuna/3.2/lib/arjunajts.jar"/>
+    </library>
+    <library name="as_lib" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/adb/debugSetup/adbAdapter_Ongoing/sourceCode_adadb/external-libs/as/as-admin.jar"/>
+        <archive path="C:/Pavan/connectors/adb/debugSetup/adbAdapter_Ongoing/sourceCode_adadb/external-libs/as/as-agent.jar"/>
+        <archive path="C:/Pavan/connectors/adb/debugSetup/adbAdapter_Ongoing/sourceCode_adadb/external-libs/as/as-common.jar"/>
+    </library>
+    <library name="axiom.lib" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/axiom/lib/axiom.jar"/>
+    </library>
+    <library name="cryptowss.path" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/crypto_wss/2.10.0/lib/palettes/tibcryptx_wss.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/crypto_wss/2.10.0/lib/palettes/TIBCOwss4j.jar"/>
+    </library>
+    <library name="dabs.lib" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/dabs/1.3.100/lib/com.tibco.mtg.base.plugin_1.3.100.007.jar"/>
+    </library>
+    <library name="ejb.lib" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/ejb/2.0.0/lib/ejb.jar"/>
+    </library>
+    <library name="hawk.lib" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/hawk/lib/compat/activation.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/hawk/lib/compat/ami.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/hawk/lib/consolecorecommand.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/hawk/lib/hawkconfigcommon.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/hawk/lib/compat/mail.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/hawk/lib/mar.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/hawk/lib/monitoringcommand.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/hawk/lib/monitoringconsolecommon.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/hawk/lib/compat/perltools.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/hawk/lib/publisher.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/hawk/lib/compat/rvutils.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/hawk/lib/spot.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/hawk/lib/talon.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/hawk/lib/compat/utilities.jar"/>
+    </library>
+    <library name="orastream" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/adb/debugSetup/adbAdapter_Ongoing/sourceCode_adadb/external-libs/oracleStreams/aqapi.jar"/>
+        <archive path="C:/Pavan/connectors/adb/debugSetup/adbAdapter_Ongoing/sourceCode_adadb/external-libs/oracleStreams/jms.jar"/>
+        <archive path="C:/Pavan/connectors/adb/debugSetup/adbAdapter_Ongoing/sourceCode_adadb/external-libs/oracleStreams/jmscommon.jar"/>
+        <archive path="C:/Pavan/connectors/adb/debugSetup/adbAdapter_Ongoing/sourceCode_adadb/external-libs/oracleStreams/jndi.jar"/>
+        <archive path="C:/Pavan/connectors/adb/debugSetup/adbAdapter_Ongoing/sourceCode_adadb/external-libs/oracleStreams/jta.jar"/>
+        <archive path="C:/Pavan/connectors/adb/debugSetup/adbAdapter_Ongoing/sourceCode_adadb/external-libs/oracleStreams/ojdbc6.jar"/>
+        <archive path="C:/Pavan/connectors/adb/debugSetup/adbAdapter_Ongoing/sourceCode_adadb/external-libs/oracleStreams/xdb6.jar"/>
+        <archive path="C:/Pavan/connectors/adb/debugSetup/adbAdapter_Ongoing/sourceCode_adadb/external-libs/oracleStreams/xmlparserv2.jar"/>
+    </library>
+    <library name="saxon.lib" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/saxon/9.0/lib/saxon9.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/saxon/9.0/lib/saxon9-ant.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/saxon/9.0/lib/saxon9-dom4j.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/saxon/9.0/lib/saxon9-dom.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/saxon/9.0/lib/saxon9-jdom.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/saxon/9.0/lib/saxon9-s9api.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/saxon/9.0/lib/saxon9-sql.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/saxon/9.0/lib/saxon9-xom.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/saxon/9.0/lib/saxon9-xpath.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/saxon/9.0/lib/saxon9-xqj.jar"/>
+    </library>
+    <library name="tibcoxmlparser.lib" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/xmlparser/1.0.0/lib/xmlparsers.jar"/>
+    </library>
+    <library name="tibrv.lib" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tibrv/8.4/lib/rvconfig.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tibrv/8.4/lib/tibrvj.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tibrv/8.4/lib/tibrvjsd.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tibrv/8.4/lib/tibrvjweb.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tibrv/8.4/lib/tibrvnative.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tibrv/8.4/lib/tibrvnativesd.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tibrv/8.4/lib/rvlat.jar"/>
+    </library>
+    <library name="tpcl.ant.lib" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/activation.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-antlr.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-apache-bcel.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-apache-bsf.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-apache-log4j.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-apache-oro.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-apache-regexp.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-apache-resolver.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-commons-logging.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-commons-net.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-contrib-1.0b3.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-contrib.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-icontract.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-jai.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-javamail.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-jdepend.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-jmf.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-jsch.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-junit.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-launcher.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-netrexx.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-nodeps.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-starteam.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-stylebook.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-swing.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-trax.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-vaj.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-weblogic.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-xalan1.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/ant-xslp.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/commons-net-1.3.0.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/commons-net.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/cpptasks.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/jakarta-oro-2.0.8.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/jakarta-oro.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/junit.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/mail.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/xercesImpl.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/xml-apis.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/ant/1.6/lib/xmltask.jar"/>
+    </library>
+    <library name="tpcl.cactus.lib" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/cactus/lib/aspectjrt-1.1.1.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/cactus/lib/cactus-1.6.1.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/cactus/lib/cactus-ant-1.6.1.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/cactus/lib/commons-logging-1.0.3.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/cactus/lib/httpunit-1.5.4.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/cactus/lib/junit-3.8.1.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/cactus/lib/nekohtml-0.7.4.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/cactus/lib/servletapi-2.3.jar"/>
+    </library>
+    <library name="tpcl.lib" systemlibrary="false">
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/httpclient_4.0/fluent-hc-4.5.5.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/httpclient_4.0/httpclient-4.5.5.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/httpclient_4.0/httpclient-cache-4.5.5.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/httpclient_4.0/httpclient-win-4.5.5.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/httpclient_4.0/httpcore-4.4.9.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/httpclient_4.0/httpmime-4.5.5.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/httpclient_4.0/jna-4.4.0.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/httpclient_4.0/jna-platform-4.4.0.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/httpclient_3.0/commons-httpclient.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/jakarta-slide-webdavlib-2.0.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/entrust/enttoolkit.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/misc_jars/xmlsec-1.5.6.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/activation.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/antlr-3.1.3.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/auth.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/commons-codec-1.3.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/cos.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/jdom.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/jmxremote_optional.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/ldapjdk.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/log4j-1.2.15.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/neo.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/PerlTools.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/slf4j-api-1.5.2.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/slf4j-log4j12-1.5.2.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/slf4j-simple-1.5.2.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/spring-aop.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/spring-beans.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/spring-context.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/spring-core.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/spring-web.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/turbine-2.1.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/wsdl4j.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/wstx-asl-3.2.9.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/xalan.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/xercesImpl.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/xfire-aegis-1.2.2.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/xfire-core-1.2.2.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/xfire-spring-1.2.2.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/tomcat-warp.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/commons-beanutils.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/commons-collections.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/commons-dbcp.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/commons-digester.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/commons-fileupload-1.0.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/commons-logging-api.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/misc_jars/commons-pool-1.6.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/jaas.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/jakarta-regexp-1.2.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/jdbc2_0-stdext.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/jndi.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/jta.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/mail.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/naming-common.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/servlet.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/servlets-common.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/servlets-manager.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/tomcat-http11.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/tomcat-jk2.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/lib/tomcat-jk.jar"/>
+        <archive path="C:/Pavan/Installations/BW5150/tpcl/5.12/lib/jms-2.0.jar"/>
+    </library>
+    <library name="tpcl.misc_jars" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/misc_jars/commons-pool-1.6.jar"/>
+    </library>
+    <library name="tpcl.mx4j.lib" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/mx4j/mx4j.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/mx4j/mx4j-examples.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/mx4j/mx4j-impl.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/mx4j/mx4j-jmx.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/mx4j/mx4j-remote.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/mx4j/mx4j-rimpl.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/mx4j/mx4j-rjmx.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/mx4j/mx4j-tools.jar"/>
+    </library>
+    <library name="tpcl.tomcat.lib" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/bin/tomcat-juli.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/bin/bootstrap.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/bin/commons-daemon.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/annotations-api.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/catalina.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/catalina-ant.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/catalina-ha.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/catalina-tribes.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/ecj-4.4.2.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/el-api.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/jasper.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/jasper-el.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/jsp-api.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/servlet-api.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/tomcat-api.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/tomcat-coyote.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/tomcat-dbcp.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/tomcat-i18n-es.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/tomcat-i18n-fr.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/tomcat-i18n-ja.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/tomcat-jdbc.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/tomcat/7/lib/tomcat-util.jar"/>
+    </library>
+    <library name="tpcl.uddi.lib" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tpcl/5.10/uddi4j/lib/uddi4j.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/jms-2.0.jar"/>
+    </library>
+    <library name="tralib.path" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/XSLTPluginFactory.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/AppManage.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/auth.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/Deployment.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/designerhelp.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/DomainUtility.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/DUServletEngine.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/log4jProps.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/muitools.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/TIBCOAppDeployment.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/TIBCOAuthAPI.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/TIBCOAuthAPIimpl.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/TIBCOdesigner.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/TIBCOrt.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/TIBCOSecurityTomcat.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/TIBCOtsm.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/TIBCOUserAPI.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/TIBCOxml.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/TIBCrypt.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/tibcryptx_pswd.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/TIBqd.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/tramodify.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/turbosdk.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/palettes/ad_palette.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/palettes/clearcasercs.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/palettes/cvsrcs.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/palettes/davstore.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/palettes/designerpalettes.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/palettes/perforcercs.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/palettes/pvcsrcs.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/palettes/TurboPalette.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/palettes/vssrcs.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/repository_mappers/designerobjectrepomapper.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/tra/5.10/lib/repository_mappers/TIBCOadaptermappers.jar"/>
+    </library>
+    <library name="xmlui.path" systemlibrary="false">
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/xmlui/1.0.0/lib/palettes/xdata.jar"/>
+        <archive path="C:/Pavan/connectors/dev/commonSourceCode/BW5_lib/xmlui/1.0.0/lib/palettes/mapper.jar"/>
+    </library>
+</eclipse-userlibraries>
